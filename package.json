@@ -1,0 +1,7 @@
+{
+  "name": "libav",
+  "description": "Libav provides cross-platform tools and libraries to convert, manipulate and stream a wide range of multimedia formats and protocols.",
+  "options": {
+    "include_subdirs": false
+  }
+}
